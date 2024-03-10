@@ -1,0 +1,19 @@
+dword a = 1043664;
+byte b;
+
+qword flt0 = 1f;
+qword flt0 = 12.0f;
+qword flt0 = 1.4.5f;
+
+a = a*b;
+
+if(a>b){
+    ret 10;
+    brk;
+    skp;
+}
+jl;
+je;
+jc;
+jmp;
+void;
